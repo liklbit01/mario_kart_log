@@ -1,0 +1,124 @@
+{"player":"CTJ","time":{"value":"0:39:26","is_real":true,"state":{"type":"rank","rank":2}}}
+{"player":"CTJ","time":{"value":"0:39:26","is_real":true,"state":{"type":"rank","rank":3}}}
+{"player":"CTJ","time":{"value":"0:39:28","is_real":true},"event":{"type":"hit","cause":"player","player":"東京我來了","area":"right"}}
+{"player":"CTJ","time":{"value":"0:39:28","is_real":true,"state":{"type":"rank","rank":4}}}
+{"player":"CTJ","time":{"value":"0:39:29","is_real":true},"event":{"type":"hit","cause":"car","area":"right"}}
+{"player":"CTJ","time":{"value":"0:39:29","is_real":true},"event":{"type":"item_decide","items":[[{"item":"?_block"}],[{"item":"triple_red_shells"},{"item":"triple_red_shells"},{"item":"triple_red_shells"}]]}}
+{"player":"CTJ","time":{"value":"0:39:29","is_real":true},"state":{"type":"item","items":[[{"item":"?_block"}],[{"item":"triple_red_shells"},{"item":"triple_red_shells"},{"item":"triple_red_shells"}]]}}
+{"player":"CTJ","time":{"value":"0:39:30","is_real":true},"state":{"type":"rank","rank":3}}
+{"player":"CTJ","time":{"value":"0:39:30","is_real":true},"state":{"type":"rank","rank":4}}
+{"player":"CTJ","time":{"value":"0:39:30","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:30","is_real":true},"state":{"type":"coin","coin":8}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"state":{"type":"coin","coin":9}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"state":{"type":"coin","coin":10}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"state":{"type":"coin","coin":11}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"state":{"type":"rank","rank":5}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:31","is_real":true},"state":{"type":"coin","coin":12}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"coin","coin":13}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"coin","coin":14}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"coin","coin":15}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"item","items":[[{"item":"triple_red_shells"},{"item":"triple_red_shells"},{"item":"triple_red_shells"}]]}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"rank","rank":6}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"hit","cause":"player","player":"超速對決","area":"left"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"hit","cause":"super_horn","player":"超速對決"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"item","items":[]}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"rank","rank":7}}
+{"player":"CTJ","time":{"value":"0:39:34","is_real":true},"state":{"type":"rank","rank":9}}
+{"player":"CTJ","time":{"value":"0:39:34","is_real":true},"state":{"type":"rank","rank":10}}
+{"player":"CTJ","time":{"value":"0:39:35","is_real":true},"state":{"type":"rank","rank":12}}
+{"player":"CTJ","time":{"value":"0:39:35","is_real":true},"state":{"type":"rank","rank":13}}
+{"player":"CTJ","time":{"value":"0:39:35","is_real":true},"event":{"type":"mushroom_boost"}}
+{"player":"CTJ","time":{"value":"0:39:36","is_real":true},"state":{"type":"rank","rank":12}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"state":{"type":"rank","rank":6}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"state":{"type":"coin","coin":7}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"state":{"type":"item","item":[[{"item":"golden_dash_mushroom"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:38","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:38","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:38","is_real":true},"state":{"type":"rank","rank":4}}
+{"player":"Gina Go Go","time":{"value":"0:39:38","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:38","is_real":true},"state":{"type":"rank","rank":3}}
+{"player":"Gina Go Go","time":{"value":"0:39:38","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:39","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:39","is_real":true},"state":{"type":"rank","rank":2}}
+{"player":"Gina Go Go","time":{"value":"0:39:39","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:39","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:39","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"state":{"type":"rank","rank":1}}
+{"player":"Gina Go Go","time":{"value":"0:39:44","is_real":true},"event":{"type":"item_get","number":2}}
+{"player":"Gina Go Go","time":{"value":"0:39:45","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
+{"player":"Gina Go Go","time":{"value":"0:39:47","is_real":true},"event":{"type":"drift_spark","level":1}}
+{"player":"Gina Go Go","time":{"value":"0:39:48","is_real":true},"event":{"type":"item_decide","items":[[{"item":"coin"}],[{"item":"green_shell"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:39:48","is_real":true},"state":{"type":"item","items":[[{"item":"coin"}],[{"item":"green_shell"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:39:49","is_real":true},"state":{"type":"rank","rank":2}}
+{"player":"Gina Go Go","time":{"value":"0:39:49","is_real":true},"event":{"type":"item_use","item":"coin"}}
+{"player":"Gina Go Go","time":{"value":"0:39:49","is_real":true},"state":{"type":"item","items":[[{"item":"green_shell"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:39:50","is_real":true},"state":{"type":"coin","coin":9}}
+{"player":"Gina Go Go","time":{"value":"0:39:51","is_real":true},"state":{"type":"rank","rank":1}}
+{"player":"Gina Go Go","time":{"value":"0:39:52","is_real":true},"event":{"type":"item_block","item":"green_shell","block":"red_shell"}}
+{"player":"Gina Go Go","time":{"value":"0:39:52","is_real":true},"state":{"type":"rank","rank":2}}
+{"player":"Gina Go Go","time":{"value":"0:39:52","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
+{"player":"Gina Go Go","time":{"value":"0:39:53","is_real":true},"event":{"type":"drift_stop"}}
+{"player":"Gina Go Go","time":{"value":"0:39:54","is_real":true},"state":{"type":"rank","rank":1}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"state":{"type":"rank","rank":18}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"state":{"type":"coin","coin":5}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"event":{"type":"item_use","item":"bullet_bill"}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"state":{"type":"item","item":[[{"item":"bullet_bill"}],[{"item":"mushroom"},{"item":"mushroom"},{"item":"mushroom"}]]}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"event":{"type":"coin_get"}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"state":{"type":"coin","coin":6}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"state":{"type":"rank","rank":17}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"state":{"type":"rank","rank":16}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"event":{"type":"coin_get"}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"state":{"type":"coin","coin":7}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"event":{"type":"coin_get"}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"state":{"type":"coin","coin":8}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"state":{"type":"rank","rank":15}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:59","is_real":true},"state":{"type":"rank","rank":14}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"state":{"type":"rank","rank":12}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"event":{"type":"coin_get"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"state":{"type":"coin","coin":9}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"state":{"type":"rank","rank":10}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"state":{"type":"item","item":[[{"item":"mushroom"},{"item":"mushroom"},{"item":"mushroom"}]]}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"state":{"type":"hit","cause":"player","player":"CTJ","area":"front"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"state":{"type":"rank","rank":7}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"state":{"type":"rank","rank":6}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:02","is_real":true},"state":{"type":"hit","cause":"player","player":"CTJ","area":"back"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:02","is_real":true},"event":{"type":"item_use","item":"mushroom"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:02","is_real":true},"state":{"type":"item","item":[[{"item":"mushroom"},{"item":"mushroom"}]]}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:03","is_real":true},"state":{"type":"hit","cause":"player","player":"CTJ","area":"back"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:04","is_real":true},"state":{"type":"rank","rank":7}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:05","is_real":true},"event":{"type":"item_use","item":"mushroom"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:05","is_real":true},"state":{"type":"item","item":[[{"item":"mushroom"}]]}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:05","is_real":true},"state":{"type":"rank","rank":5}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:05","is_real":true},"state":{"type":"hit","cause":"player","player":"皓閔一定要吃雞","area":"left"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:05","is_real":true},"event":{"type":"slipstream","player":"CTJ"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:06","is_real":true},"event":{"type":"slipstream_boost","player":"CTJ"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:06","is_real":true},"state":{"type":"rank","rank":4}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"state":{"type":"rank","rank":20}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"state":{"type":"coin","coin":2}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"state":{"type":"item","item":[[{"item":"golden_dash_mushroom"}]]}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"state":{"type":"rank","rank":19}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"state":{"type":"rank","rank":18}}
+{"player":"卡比之星","time":{"value":"0:40:09","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"卡比之星","time":{"value":"0:40:09","is_real":true},"state":{"type":"rank","rank":19}}
+{"player":"卡比之星","time":{"value":"0:40:09","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
+{"player":"卡比之星","time":{"value":"0:40:09","is_real":true},"state":{"type":"item","item":[]}}
+{"player":"卡比之星","time":{"value":"0:40:11","is_real":true},"state":{"type":"rank","rank":17}}
+{"player":"卡比之星","time":{"value":"0:40:14","is_real":true},"event":{"type":"item_get","number":1}}
+{"player":"卡比之星","time":{"value":"0:40:14","is_real":true},"event":{"type":"item_roll","number":1}}
+{"player":"卡比之星","time":{"value":"0:40:14","is_real":true},"event":{"type":"next_lap"}}
+{"player":"卡比之星","time":{"value":"0:40:14","is_real":true},"state":{"type":"lap","lap":3}}

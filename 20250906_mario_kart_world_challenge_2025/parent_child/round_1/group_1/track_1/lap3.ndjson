@@ -1,0 +1,4 @@
+{"player":"卡比之星","time":{"value":"0:40:15","is_real":true},"state":{"type":"rank","rank":16}}
+{"player":"卡比之星","time":{"value":"0:40:17","is_real":true},"event":{"type":"jump","direction":"front"}}
+{"player":"卡比之星","time":{"value":"0:40:18","is_real":true},"event":{"type":"jump_boost"}}
+{"player":"卡比之星","time":{"value":"0:40:19","is_real":true},"event":{"type":"item_decide","items":[[{"item":"mushroom"},{"item":"mushroom"},{"item":"mushroom"}]]}}
