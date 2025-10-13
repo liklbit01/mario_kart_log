@@ -137,7 +137,7 @@
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"item_get","number":2}}
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"item_roll","number":2}}
 {"player":"信信","time":{"value":"0:38:50","is_real":true},"state":{"type":"rank","rank":13}}
-{"player":"信信","time":{"value":"0:38:51","is_real":true},"event":{"type":"hit","cause":"bomb"}}
+{"player":"信信","time":{"value":"0:38:51","is_real":true},"event":{"type":"hit","cause":"bob-omb"}}
 {"player":"信信","time":{"value":"0:38:51","is_real":true},"event":{"type":"coin_lose","coin":1}}
 {"player":"信信","time":{"value":"0:38:51","is_real":true},"state":{"type":"coin","coin":0}}
 {"player":"信信","time":{"value":"0:38:51","is_real":true},"state":{"type":"rank","rank":12}}
