@@ -60,7 +60,7 @@
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"state":{"type":"rank","rank":2}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":true},"state":{"type":"coin","coin":2}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":true},"state":{"type":"item","items":[]}}
-{"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"slipstream","player":""}}
+{"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"slipstream_boost","player":""}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"item_get","number":1}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"item_roll","number":1}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":true},"event":{"type":"hit","cause":"player","player":"CharMike","area":"front"}}
@@ -119,7 +119,8 @@
 {"player":"CharMike","time":{"value":"0:38:32","is_real":true},"state":{"type":"rank","rank":2}}
 {"player":"CharMike","time":{"value":"0:38:33","is_real":true},"state":{"type":"rank","rank":3}}
 {"player":"CharMike","time":{"value":"0:38:33","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
-{"player":"CharMike","time":{"value":"0:38:35","is_real":true},"event":{"type":"slipstream","player":"旋風少女組"}}
+{"player":"CharMike","time":{"value":"0:38:34","is_real":true},"event":{"type":"slipstream","player":"旋風少女組"}}
+{"player":"CharMike","time":{"value":"0:38:35","is_real":true},"event":{"type":"slipstream_boost","player":"旋風少女組"}}
 {"player":"CharMike","time":{"value":"0:38:35","is_real":true},"event":{"type":"drift_spark","level":1}}
 {"player":"CharMike","time":{"value":"0:38:35","is_real":true},"event":{"type":"drift_boost"}}
 {"player":"CharMike","time":{"value":"0:38:39","is_real":true},"event":{"type":"charge"}}
@@ -181,6 +182,7 @@
 {"player":"卡比之星","time":{"value":"0:39:05","is_real":true},"state":{"type":"rank","rank":12}}
 {"player":"卡比之星","time":{"value":"0:39:06","is_real":true},"event":{"type":"hit","cause":"player","player":"JIRO&YUKI","area":"front"}}
 {"player":"卡比之星","time":{"value":"0:39:07","is_real":true},"event":{"type":"slipstream","player":"OPQ"}}
+{"player":"卡比之星","time":{"value":"0:39:07","is_real":true},"event":{"type":"slipstream_boost","player":"OPQ"}}
 {"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"event":{"type":"item_use","item":"mushroom"}}
 {"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"state":{"type":"item","items":[]}}
 {"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"event":{"type":"hit","cause":"player","player":"東京我來了","area":"right"}}
