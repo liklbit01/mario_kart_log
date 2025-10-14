@@ -213,13 +213,13 @@
 {"player":"卡比之星","time":{"value":"0:39:19","is_real":true},"state":{"type":"rank","rank":10}}
 {"player":"CTJ","time":{"value":"0:39:19","is_real":false,"state":{"type":"rank","rank":2}}}
 {"player":"CTJ","time":{"value":"0:39:19","is_real":false,"state":{"type":"coin","coin":7}}}
-{"player":"CTJ","time":{"value":"0:39:19","is_real":false,"state":{"type":"item","items":[[{"item":"red_shell"},{"item":"red_shell"}]]}}}
+{"player":"CTJ","time":{"value":"0:39:19","is_real":false,"state":{"type":"item","items":[[{"item":"triple_red_shells"},{"item":"triple_red_shells"}]]}}}
 {"player":"CTJ","time":{"value":"0:39:21","is_real":true,"state":{"type":"rank","rank":1}}}
 {"player":"CTJ","time":{"value":"0:39:21","is_real":true,"state":{"type":"rank","rank":2}}}
 {"player":"CTJ","time":{"value":"0:39:22","is_real":true,"state":{"type":"rank","rank":3}}}
-{"player":"CTJ","time":{"value":"0:39:22","is_real":true},"event":{"type":"item_use","item":"red_shell"}}
-{"player":"CTJ","time":{"value":"0:39:22","is_real":true},"state":{"type":"item","items":[[{"item":"red_shell"}]]}}
-{"player":"CTJ","time":{"value":"0:39:23","is_real":true},"event":{"type":"item_use","item":"red_shell"}}
+{"player":"CTJ","time":{"value":"0:39:22","is_real":true},"event":{"type":"item_use","item":"triple_red_shells"}}
+{"player":"CTJ","time":{"value":"0:39:22","is_real":true},"state":{"type":"item","items":[[{"item":"triple_red_shells"}]]}}
+{"player":"CTJ","time":{"value":"0:39:23","is_real":true},"event":{"type":"item_use","item":"triple_red_shells"}}
 {"player":"CTJ","time":{"value":"0:39:22","is_real":true},"state":{"type":"item","items":[]}}
 {"player":"CTJ","time":{"value":"0:39:25","is_real":true},"event":{"type":"item_get","number":2}}
 {"player":"CTJ","time":{"value":"0:39:25","is_real":true},"event":{"type":"item_roll","number":2}}
