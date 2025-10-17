@@ -39,6 +39,7 @@
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"state":{"type":"rank","rank":6}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"state":{"type":"coin","coin":7}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"state":{"type":"item","item":[[{"item":"golden_dash_mushroom"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
@@ -76,6 +77,7 @@
 {"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"state":{"type":"coin","coin":5}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"event":{"type":"item_use","item":"bullet_bill"}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"state":{"type":"item","item":[[{"item":"bullet_bill"}],[{"item":"mushroom"},{"item":"mushroom"},{"item":"mushroom"}]]}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"event":{"type":"coin_get"}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"state":{"type":"coin","coin":6}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"state":{"type":"rank","rank":17}}
@@ -109,6 +111,7 @@
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"state":{"type":"rank","rank":20}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"state":{"type":"coin","coin":2}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"state":{"type":"item","item":[[{"item":"golden_dash_mushroom"}]]}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"state":{"type":"rank","rank":19}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
