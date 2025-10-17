@@ -83,7 +83,7 @@
 {"player":"臭鼬超人","time":{"value":"0:38:27","is_real":false},"state":{"type":"rank","rank":19}}
 {"player":"臭鼬超人","time":{"value":"0:38:27","is_real":true},"state":{"type":"coin","coin":1}}
 {"player":"臭鼬超人","time":{"value":"0:38:27","is_real":true},"state":{"type":"terrain","terrain":"road"}}
-{"player":"紅豬隊","time":{"value":"0:38:27","is_real":true},"state":{"type":"item","items":[]}}
+{"player":"臭鼬超人","time":{"value":"0:38:27","is_real":true},"state":{"type":"item","items":[]}}
 {"player":"臭鼬超人","time":{"value":"0:38:27","is_real":true},"event":{"type":"rail_ride"}}
 {"player":"臭鼬超人","time":{"value":"0:38:28","is_real":true},"state":{"type":"rank","rank":22}}
 {"player":"臭鼬超人","time":{"value":"0:38:30","is_real":true},"state":{"type":"rank","rank":23}}
