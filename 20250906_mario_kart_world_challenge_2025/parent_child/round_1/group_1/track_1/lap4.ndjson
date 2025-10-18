@@ -3,7 +3,7 @@
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"state":{"type":"terrain","terrain":"offroad"}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"event":{"type":"item_use","item":"mushroom"}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"state":{"type":"item","item":[[{"item":"mushroom"}]]}}
-{"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"event":{"type":"hit","cause":"wall","area":"front"}}
+{"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"event":{"type":"collision","cause":"wall","area":"front"}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"state":{"type":"rank","rank":3}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"event":{"type":"drift_spark","level":2}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:40","is_real":true},"state":{"type":"terrain","terrain":"road"}}

@@ -18,7 +18,7 @@
 {"player":"JIRO&YUKI","time":{"value":"0:40:24","is_real":false},"state":{"type":"item","item":[[{"item":"triple_bananas"}]]}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:24","is_real":true},"event":{"type":"charge_spark","level":1}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:24","is_real":true},"event":{"type":"charge_jump","direction":"right"}}
-{"player":"JIRO&YUKI","time":{"value":"0:40:24","is_real":true},"event":{"type":"hit","cause":"player","player":"不害羞幽靈","area":"front"}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:24","is_real":true},"event":{"type":"collision","cause":"player","player":"不害羞幽靈","area":"front"}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:25","is_real":true},"state":{"type":"rank","rank":7}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:25","is_real":true},"event":{"type":"jump_boost"}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:25","is_real":true},"event":{"type":"boost"}}
@@ -37,7 +37,7 @@
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:33","is_real":true},"event":{"type":"jump","direction":"right"}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:33","is_real":true},"state":{"type":"rank","rank":3}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:34","is_real":true},"event":{"type":"jump_boost"}}
-{"player":"皓閔一定要吃雞","time":{"value":"0:40:35","is_real":true},"event":{"type":"hit","cause":"wall","area":"left"}}
+{"player":"皓閔一定要吃雞","time":{"value":"0:40:35","is_real":true},"event":{"type":"collision","cause":"wall","area":"left"}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:36","is_real":true},"event":{"type":"coin_get"}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:36","is_real":true},"state":{"type":"coin","coin":6}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:40:36","is_real":true},"event":{"type":"jump","direction":"left"}}

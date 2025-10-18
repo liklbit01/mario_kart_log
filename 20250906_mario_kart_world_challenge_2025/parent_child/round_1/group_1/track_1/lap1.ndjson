@@ -21,15 +21,15 @@
 {"player":"Flying fish","time":{"value":"0:38:18","is_real":true},"event":{"type":"rocket_start","distance":-1}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:38:18","is_real":true},"event":{"type":"rocket_start","distance":2}}
 {"player":"JIRO&YUKI","time":{"value":"0:38:18","is_real":true},"event":{"type":"rocket_start","distance":2}}
-{"player":"旋風少女組","time":{"value":"0:38:18","is_real":true},"event":{"type":"hit","cause":"player","player":"皓閔一定要吃雞","area":"left"}}
-{"player":"Flying fish","time":{"value":"0:38:19","is_real":true},"event":{"type":"hit","cause":"player","player":"卡比之星","area":"left"}}
-{"player":"Flying fish","time":{"value":"0:38:19","is_real":true},"event":{"type":"hit","cause":"player","player":"我們是新手","area":"back"}}
-{"player":"JIRO&YUKI","time":{"value":"0:38:19","is_real":true},"event":{"type":"hit","cause":"player","player":"OPQ","area":"front"}}
+{"player":"旋風少女組","time":{"value":"0:38:18","is_real":true},"event":{"type":"collision","cause":"player","player":"皓閔一定要吃雞","area":"left"}}
+{"player":"Flying fish","time":{"value":"0:38:19","is_real":true},"event":{"type":"collision","cause":"player","player":"卡比之星","area":"left"}}
+{"player":"Flying fish","time":{"value":"0:38:19","is_real":true},"event":{"type":"collision","cause":"player","player":"我們是新手","area":"back"}}
+{"player":"JIRO&YUKI","time":{"value":"0:38:19","is_real":true},"event":{"type":"collision","cause":"player","player":"OPQ","area":"front"}}
 {"player":"東京我來了","time":{"value":"0:38:19","is_real":true},"state":{"type":"coin","coin":3}}
 {"player":"東京我來了","time":{"value":"0:38:19","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"東京我來了","time":{"value":"0:38:20","is_real":false},"event":{"type":"jump","direction":"front"}}
 {"player":"東京我來了","time":{"value":"0:38:20","is_real":true},"event":{"type":"jump_boost"}}
-{"player":"東京我來了","time":{"value":"0:38:20","is_real":true},"event":{"type":"hit","cause":"player","player":"Gina Go Go","area":"left"}}
+{"player":"東京我來了","time":{"value":"0:38:20","is_real":true},"event":{"type":"collision","cause":"player","player":"Gina Go Go","area":"left"}}
 {"player":"東京我來了","time":{"value":"0:38:21","is_real":true},"state":{"type":"rank","rank":10}}
 {"player":"東京我來了","time":{"value":"0:38:22","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
 {"player":"東京我來了","time":{"value":"0:38:24","is_real":true},"state":{"type":"rank","rank":9}}
@@ -40,12 +40,12 @@
 {"player":"OPQ","time":{"value":"0:38:19","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"OPQ","time":{"value":"0:38:21","is_real":true},"state":{"type":"rank","rank":11}}
 {"player":"OPQ","time":{"value":"0:38:23","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
-{"player":"OPQ","time":{"value":"0:38:23","is_real":true},"event":{"type":"hit","cause":"player","player":"信信","area":"front"}}
+{"player":"OPQ","time":{"value":"0:38:23","is_real":true},"event":{"type":"collision","cause":"player","player":"信信","area":"front"}}
 {"player":"OPQ","time":{"value":"0:38:23","is_real":true},"state":{"type":"rank","rank":12}}
 {"player":"OPQ","time":{"value":"0:38:24","is_real":true},"event":{"type":"drift_spark","level":1}}
 {"player":"OPQ","time":{"value":"0:38:24","is_real":true},"event":{"type":"drift_boost"}}
 {"player":"OPQ","time":{"value":"0:38:25","is_real":true},"state":{"type":"rank","rank":11}}
-{"player":"OPQ","time":{"value":"0:38:25","is_real":true},"event":{"type":"hit","cause":"wall","area":"right"}}
+{"player":"OPQ","time":{"value":"0:38:25","is_real":true},"event":{"type":"collision","cause":"wall","area":"right"}}
 {"player":"OPQ","time":{"value":"0:38:25","is_real":true},"state":{"type":"rank","rank":12}}
 {"player":"交通車","time":{"value":"0:38:19","is_real":true},"state":{"type":"coin","coin":0}}
 {"player":"交通車","time":{"value":"0:38:19","is_real":true},"state":{"type":"terrain","terrain":"road"}}
@@ -56,12 +56,12 @@
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:19","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:24","is_real":true},"state":{"type":"rank","rank":4}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:22","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
-{"player":"叫什麼隊名都可以","time":{"value":"0:38:22","is_real":true},"event":{"type":"hit","cause":"player","player":"皓閔一定要吃雞","area":"back"}}
+{"player":"叫什麼隊名都可以","time":{"value":"0:38:22","is_real":true},"event":{"type":"collision","cause":"player","player":"皓閔一定要吃雞","area":"back"}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:24","is_real":true},"state":{"type":"rank","rank":5}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:24","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:24","is_real":true},"state":{"type":"rank","rank":6}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:25","is_real":true},"state":{"type":"rank","rank":7}}
-{"player":"叫什麼隊名都可以","time":{"value":"0:38:25","is_real":true},"event":{"type":"hit","cause":"player","player":"JIRO&YUKI","area":"left"}}
+{"player":"叫什麼隊名都可以","time":{"value":"0:38:25","is_real":true},"event":{"type":"collision","cause":"player","player":"JIRO&YUKI","area":"left"}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:25","is_real":true},"event":{"type":"drift_spark","level":1}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:26","is_real":true},"event":{"type":"drift_boost"}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:38:26","is_real":true},"state":{"type":"rank","rank":5}}
@@ -72,9 +72,9 @@
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"slipstream_boost","player":""}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"item_get","number":1}}
 {"player":"紅豬隊","time":{"value":"0:38:27","is_real":false},"event":{"type":"item_roll","number":1}}
-{"player":"紅豬隊","time":{"value":"0:38:27","is_real":true},"event":{"type":"hit","cause":"player","player":"CharMike","area":"front"}}
+{"player":"紅豬隊","time":{"value":"0:38:27","is_real":true},"event":{"type":"collision","cause":"player","player":"CharMike","area":"front"}}
 {"player":"紅豬隊","time":{"value":"0:38:28","is_real":true},"state":{"type":"rank","rank":1}}
-{"player":"紅豬隊","time":{"value":"0:38:29","is_real":true},"event":{"type":"hit","cause":"player","player":"CharMike","area":"right"}}
+{"player":"紅豬隊","time":{"value":"0:38:29","is_real":true},"event":{"type":"collision","cause":"player","player":"CharMike","area":"right"}}
 {"player":"紅豬隊","time":{"value":"0:38:29","is_real":true},"event":{"type":"item_decide","items":[[{"item":"dash_food","levels":1}]]}}
 {"player":"紅豬隊","time":{"value":"0:38:29","is_real":true},"state":{"type":"item","items":[[{"item":"dash_food","levels":1}]]}}
 {"player":"紅豬隊","time":{"value":"0:38:29","is_real":true},"state":{"type":"rank","rank":2}}
@@ -88,7 +88,7 @@
 {"player":"臭鼬超人","time":{"value":"0:38:28","is_real":true},"state":{"type":"rank","rank":22}}
 {"player":"臭鼬超人","time":{"value":"0:38:30","is_real":true},"state":{"type":"rank","rank":23}}
 {"player":"臭鼬超人","time":{"value":"0:38:30","is_real":true},"state":{"type":"rank","rank":22}}
-{"player":"臭鼬超人","time":{"value":"0:38:30","is_real":true},"event":{"type":"hit","cause":"player","player":"CTJ","area":"left"}}
+{"player":"臭鼬超人","time":{"value":"0:38:30","is_real":true},"event":{"type":"collision","cause":"player","player":"CTJ","area":"left"}}
 {"player":"臭鼬超人","time":{"value":"0:38:31","is_real":true},"state":{"type":"rank","rank":23}}
 {"player":"臭鼬超人","time":{"value":"0:38:31","is_real":true},"state":{"type":"rank","rank":22}}
 {"player":"CTJ","time":{"value":"0:38:27","is_real":false},"state":{"type":"rank","rank":16}}
@@ -106,9 +106,9 @@
 {"player":"CTJ","time":{"value":"0:38:29","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
 {"player":"CTJ","time":{"value":"0:38:30","is_real":true},"state":{"type":"rank","rank":23}}
 {"player":"CTJ","time":{"value":"0:38:30","is_real":true},"state":{"type":"rank","rank":22}}
-{"player":"CTJ","time":{"value":"0:38:30","is_real":true},"event":{"type":"hit","cause":"player","player":"臭鼬超人","area":"right"}}
+{"player":"CTJ","time":{"value":"0:38:30","is_real":true},"event":{"type":"collision","cause":"player","player":"臭鼬超人","area":"right"}}
 {"player":"CTJ","time":{"value":"0:38:30","is_real":true},"state":{"type":"rank","rank":21}}
-{"player":"CTJ","time":{"value":"0:38:31","is_real":true},"event":{"type":"hit","cause":"player","player":"路易吉","area":"left"}}
+{"player":"CTJ","time":{"value":"0:38:31","is_real":true},"event":{"type":"collision","cause":"player","player":"路易吉","area":"left"}}
 {"player":"CTJ","time":{"value":"0:38:31","is_real":true},"state":{"type":"rank","rank":20}}
 {"player":"信信","time":{"value":"0:38:27","is_real":false},"state":{"type":"rank","rank":10}}
 {"player":"信信","time":{"value":"0:38:27","is_real":true},"state":{"type":"coin","coin":1}}
@@ -139,7 +139,7 @@
 {"player":"CharMike","time":{"value":"0:38:39","is_real":true},"event":{"type":"charge"}}
 {"player":"CharMike","time":{"value":"0:38:40","is_real":true},"event":{"type":"charge_spark","level":1}}
 {"player":"CharMike","time":{"value":"0:38:40","is_real":true},"event":{"type":"charge_jump","direction":"front"}}
-{"player":"CharMike","time":{"value":"0:38:40","is_real":true},"event":{"type":"hit","cause":"wall","area":"left"}}
+{"player":"CharMike","time":{"value":"0:38:40","is_real":true},"event":{"type":"collision","cause":"wall","area":"left"}}
 {"player":"信信","time":{"value":"0:38:45","is_real":false},"state":{"type":"rank","rank":13}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"state":{"type":"coin","coin":1}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"event"{"type":"item","items":[]}}
@@ -152,7 +152,7 @@
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"item_get","number":2}}
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"item_roll","number":2}}
 {"player":"信信","time":{"value":"0:38:50","is_real":true},"state":{"type":"rank","rank":13}}
-{"player":"信信","time":{"value":"0:38:51","is_real":true},"event":{"type":"hit","cause":"bob-omb"}}
+{"player":"信信","time":{"value":"0:38:51","is_real":true},"event":{"type":"spinout","cause":"bob-omb"}}
 {"player":"信信","time":{"value":"0:38:51","is_real":true},"event":{"type":"coin_lose","coin":1}}
 {"player":"信信","time":{"value":"0:38:51","is_real":true},"state":{"type":"coin","coin":0}}
 {"player":"信信","time":{"value":"0:38:51","is_real":true},"state":{"type":"rank","rank":12}}
@@ -160,7 +160,7 @@
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"rank","rank":15}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"event":{"type":"item_decide","items":[[{"item":"spiny_shell"}],[{"item":"mashroom"},{"item":"mashroom"},{"item":"mashroom"}]]}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"item","items":[[{"item":"spiny_shell"}],[{"item":"mashroom"},{"item":"mashroom"},{"item":"mashroom"}]]}}
-{"player":"信信","time":{"value":"0:38:53","is_real":true},"event":{"type":"hit","cause":"player","player":"紅豬隊","area":"left"}}
+{"player":"信信","time":{"value":"0:38:53","is_real":true},"event":{"type":"collision","cause":"player","player":"紅豬隊","area":"left"}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"event":{"type":"item_use","item":"spiny_shell"}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"item","items":[[[{"item":"mashroom"},{"item":"mashroom"},{"item":"mashroom"}]]}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"rank","rank":17}}
@@ -173,7 +173,7 @@
 {"player":"超速對決","time":{"value":"0:38:54","is_real":true},"state":{"type":"coin","coin":4}}
 {"player":"超速對決","time":{"value":"0:38:54","is_real":true},"event":{"type":"coin_get"}}
 {"player":"超速對決","time":{"value":"0:38:54","is_real":true},"state":{"type":"coin","coin":5}}
-{"player":"超速對決","time":{"value":"0:38:54","is_real":true},"event":{"type":"hit","cause":"player","player":"東京我來了","area":"right"}}
+{"player":"超速對決","time":{"value":"0:38:54","is_real":true},"event":{"type":"collision","cause":"player","player":"東京我來了","area":"right"}}
 {"player":"超速對決","time":{"value":"0:38:55","is_real":true},"state":{"type":"rank","rank":7}}
 {"player":"超速對決","time":{"value":"0:38:55","is_real":true},"state":{"type":"rank","rank":6}}
 {"player":"超速對決","time":{"value":"0:38:57","is_real":true},"state":{"type":"rank","rank":5}}
@@ -196,30 +196,30 @@
 {"player":"卡比之星","time":{"value":"0:39:05","is_real":true},"state":{"type":"item","items":[[{"item":"mushroom"}]]}}
 {"player":"卡比之星","time":{"value":"0:39:05","is_real":true},"state":{"type":"rank","rank":13}}
 {"player":"卡比之星","time":{"value":"0:39:05","is_real":true},"state":{"type":"rank","rank":12}}
-{"player":"卡比之星","time":{"value":"0:39:06","is_real":true},"event":{"type":"hit","cause":"player","player":"JIRO&YUKI","area":"front"}}
+{"player":"卡比之星","time":{"value":"0:39:06","is_real":true},"event":{"type":"collision","cause":"player","player":"JIRO&YUKI","area":"front"}}
 {"player":"卡比之星","time":{"value":"0:39:07","is_real":true},"event":{"type":"slipstream","player":"OPQ"}}
 {"player":"卡比之星","time":{"value":"0:39:07","is_real":true},"event":{"type":"slipstream_boost","player":"OPQ"}}
 {"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"event":{"type":"item_use","item":"mushroom"}}
 {"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"state":{"type":"item","items":[]}}
-{"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"event":{"type":"hit","cause":"player","player":"東京我來了","area":"right"}}
+{"player":"卡比之星","time":{"value":"0:39:08","is_real":true},"event":{"type":"collision","cause":"player","player":"東京我來了","area":"right"}}
 {"player":"卡比之星","time":{"value":"0:39:09","is_real":true},"state":{"type":"rank","rank":11}}
-{"player":"卡比之星","time":{"value":"0:39:09","is_real":true},"event":{"type":"hit","cause":"player","player":"凱瑟琳","area":"front"}}
+{"player":"卡比之星","time":{"value":"0:39:09","is_real":true},"event":{"type":"collision","cause":"player","player":"凱瑟琳","area":"front"}}
 {"player":"卡比之星","time":{"value":"0:39:10","is_real":true},"state":{"type":"rank","rank":9}}
 {"player":"卡比之星","time":{"value":"0:39:10","is_real":true},"state":{"type":"rank","rank":10}}
-{"player":"卡比之星","time":{"value":"0:39:10","is_real":true},"event":{"type":"hit","cause":"player","player":"信信","area":"front"}}
-{"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"event":{"type":"hit","cause":"player","player":"JIRO&YUKI","area":"front"}}
+{"player":"卡比之星","time":{"value":"0:39:10","is_real":true},"event":{"type":"collision","cause":"player","player":"信信","area":"front"}}
+{"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"event":{"type":"collision","cause":"player","player":"JIRO&YUKI","area":"front"}}
 {"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"event":{"type":"item_get","number":0}}
 {"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"state":{"type":"rank","rank":11}}
 {"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"state":{"type":"rank","rank":9}}
-{"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"event":{"type":"hit","cause":"player","player":"東京我來了","area":"left"}}
+{"player":"卡比之星","time":{"value":"0:39:11","is_real":true},"event":{"type":"collision","cause":"player","player":"東京我來了","area":"left"}}
 {"player":"卡比之星","time":{"value":"0:39:12","is_real":true},"state":{"type":"rank","rank":7}}
 {"player":"卡比之星","time":{"value":"0:39:13","is_real":true},"event":{"type":"coin_get"}}
 {"player":"卡比之星","time":{"value":"0:39:13","is_real":true},"state":{"type":"coin","coin":8}}
 {"player":"卡比之星","time":{"value":"0:39:14","is_real":true},"state":{"type":"rank","rank":6}}
-{"player":"卡比之星","time":{"value":"0:39:15","is_real":true},"event":{"type":"hit","cause":"player","player":"信信","area":"back"}}
+{"player":"卡比之星","time":{"value":"0:39:15","is_real":true},"event":{"type":"collision","cause":"player","player":"信信","area":"back"}}
 {"player":"卡比之星","time":{"value":"0:39:16","is_real":true},"state":{"type":"rank","rank":5}}
 {"player":"卡比之星","time":{"value":"0:39:16","is_real":true},"state":{"type":"rank","rank":6}}
-{"player":"卡比之星","time":{"value":"0:39:16","is_real":true},"event":{"type":"hit","cause":"banana"}}
+{"player":"卡比之星","time":{"value":"0:39:16","is_real":true},"event":{"type":"spinout","cause":"banana"}}
 {"player":"卡比之星","time":{"value":"0:39:16","is_real":true},"event":{"type":"coin_lose","coin":3}}
 {"player":"卡比之星","time":{"value":"0:39:16","is_real":true},"state":{"type":"coin","coin":5}}
 {"player":"卡比之星","time":{"value":"0:39:17","is_real":true},"state":{"type":"rank","rank":8}}
