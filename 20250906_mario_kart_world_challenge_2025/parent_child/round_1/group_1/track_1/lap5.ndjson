@@ -12,7 +12,7 @@
 {"player":"超速對決","time":{"value":"0:41:00","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
 {"player":"超速對決","time":{"value":"0:41:00","is_real":true},"state":{"type":"rank","rank":9}}
 {"player":"超速對決","time":{"value":"0:41:01","is_real":true},"event":{"type":"drift_stop"}}
-{"player":"超速對決","time":{"value":"0:41:01","is_real":true},"event":{"type":"jump"}}
+{"player":"超速對決","time":{"value":"0:41:01","is_real":true},"event":{"type":"jump","direction":""}}
 {"player":"超速對決","time":{"value":"0:41:02","is_real":true},"state":{"type":"rank","rank":10}}
 {"player":"超速對決","time":{"value":"0:41:02","is_real":true},"event":{"type":"jump_boost"}}
 {"player":"超速對決","time":{"value":"0:41:02","is_real":true},"state":{"type":"rank","rank":11}}
