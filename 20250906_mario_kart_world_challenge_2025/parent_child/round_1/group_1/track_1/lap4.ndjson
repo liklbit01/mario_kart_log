@@ -22,7 +22,7 @@
 {"player":"超速對決","time":{"value":"0:40:48","is_real":false},"state":{"type":"item","item":[[{"item":"green_shell"}],[{"item":"triple_green_shells"},{"item":"triple_green_shells"},{"item":"triple_green_shells"}]]}}
 {"player":"超速對決","time":{"value":"0:40:48","is_real":false},"state":{"type":"terrain","terrain":"road"}}
 {"player":"超速對決","time":{"value":"0:40:49","is_real":true},"event":{"type":"coin_get"}}
-{"player":"超速對決","time":{"value":"0:40:51","is_real":true},"event":{"type":"spinout","cause":"barrel"}}
+{"player":"超速對決","time":{"value":"0:40:51","is_real":true},"event":{"type":"spinout","is_effect":true,"cause":"barrel"}}
 {"player":"超速對決","time":{"value":"0:40:51","is_real":true},"event":{"type":"coin_lose","coin":3}}
 {"player":"超速對決","time":{"value":"0:40:51","is_real":true},"state":{"type":"coin","coin":17}}
 {"player":"超速對決","time":{"value":"0:40:51","is_real":false},"state":{"type":"rank","rank":2}}
@@ -38,7 +38,7 @@
 {"player":"超速對決","time":{"value":"0:40:54","is_real":true},"event":{"type":"jump_boost"}}
 {"player":"超速對決","time":{"value":"0:40:55","is_real":true},"event":{"type":"coin_get"}}
 {"player":"超速對決","time":{"value":"0:40:55","is_real":true},"event":{"type":"coin_get"}}
-{"player":"超速對決","time":{"value":"0:40:55","is_real":true},"event":{"type":"spinout","cause":"banana"}}
+{"player":"超速對決","time":{"value":"0:40:55","is_real":true},"event":{"type":"spinout","is_effect":true,"cause":"banana"}}
 {"player":"超速對決","time":{"value":"0:40:55","is_real":true},"event":{"type":"coin_lose","coin":3}}
 {"player":"超速對決","time":{"value":"0:40:55","is_real":true},"state":{"type":"coin","coin":17}}
 {"player":"超速對決","time":{"value":"0:40:55","is_real":true},"state":{"type":"item_get","number":1}}

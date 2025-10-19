@@ -27,7 +27,7 @@
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"item","items":[[{"item":"triple_red_shells"},{"item":"triple_red_shells"},{"item":"triple_red_shells"}]]}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"rank","rank":6}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"collision","cause":"player","player":"超速對決","area":"left"}}
-{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"spinout","cause":"super_horn","player":"超速對決"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"spinout","is_effect":true,"cause":"super_horn","player":"超速對決"}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"item","items":[]}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"state":{"type":"rank","rank":7}}
 {"player":"CTJ","time":{"value":"0:39:34","is_real":true},"state":{"type":"rank","rank":9}}
