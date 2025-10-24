@@ -1,0 +1,16 @@
+{"player":"Gina Go Go","time":{"value":"0:41:31","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
+{"player":"Gina Go Go","time":{"value":"0:41:31","is_real":true},"state":{"type":"terrain","terrain":"offroad"}}
+{"player":"Gina Go Go","time":{"value":"0:41:31","is_real":true},"event":{"type":"drift_stop"}}
+{"player":"Gina Go Go","time":{"value":"0:41:32","is_real":true},"state":{"type":"rank","rank":6}}
+{"player":"Gina Go Go","time":{"value":"0:41:33","is_real":true},"state":{"type":"rank","rank":7}}
+{"player":"Gina Go Go","time":{"value":"0:41:33","is_real":true},"state":{"type":"rank","rank":8}}
+{"player":"Gina Go Go","time":{"value":"0:41:34","is_real":true},"state":{"type":"terrain","terrain":"road"}}
+{"player":"Gina Go Go","time":{"value":"0:41:34","is_real":true},"state":{"type":"rank","rank":9}}
+{"player":"Gina Go Go","time":{"value":"0:41:35","is_real":true},"event":{"type":"item_decide","items":[[{"item":"red_shell"}],[{"item":"mushroom"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:41:35","is_real":true},"state":{"type":"item","item":[[{"item":"red_shell"}],[{"item":"mushroom"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:41:35","is_real":true},"state":{"type":"rank","rank":10}}
+{"player":"Gina Go Go","time":{"value":"0:41:37","is_real":true},"event":{"type":"item_use","item":"red_shell"}}
+{"player":"Gina Go Go","time":{"value":"0:41:37","is_real":true},"state":{"type":"item","item":[[{"item":"mushroom"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:41:37","is_real":true},"event":{"type":"spinout","is_effect":true,"cause":"bob-omb"}}
+{"player":"Gina Go Go","time":{"value":"0:41:37","is_real":true},"event":{"type":"coin_lose","coin":3}}
+{"player":"Gina Go Go","time":{"value":"0:41:37","is_real":true},"state":{"type":"coin","coin":13}}
