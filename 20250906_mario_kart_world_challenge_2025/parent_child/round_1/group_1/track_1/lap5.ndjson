@@ -1,7 +1,7 @@
 {"player":"超速對決","time":{"value":"0:40:56","is_real":true},"event":{"type":"item_lose","item":"green_shell"}}
 {"player":"超速對決","time":{"value":"0:40:56","is_real":true},"state":{"type":"item","item":[[{"item":"triple_green_shells"},{"item":"triple_green_shells"},{"item":"triple_green_shells"}]]}}
 {"player":"超速對決","time":{"value":"0:40:56","is_real":true},"state":{"type":"rank","rank":7}}
-{"player":"超速對決","time":{"value":"0:40:56","is_real":true},"event":{"type":"jump"}}
+{"player":"超速對決","time":{"value":"0:40:56","is_real":true},"event":{"type":"hop"}}
 {"player":"超速對決","time":{"value":"0:40:57","is_real":true},"event":{"type":"item_lose","item":"triple_green_shells"}}
 {"player":"超速對決","time":{"value":"0:40:57","is_real":true},"state":{"type":"item","item":[[{"item":"triple_green_shells"},{"item":"triple_green_shells"}]]}}
 {"player":"超速對決","time":{"value":"0:40:56","is_real":true},"state":{"type":"rank","rank":8}}

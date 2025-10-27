@@ -3,7 +3,7 @@
 {"player":"東京我來了","time":{"value":"0:41:46","is_real":true},"state":{"type":"rank","rank":3}}
 {"player":"東京我來了","time":{"value":"0:41:46","is_real":true},"state":{"type":"terrain","terrain":"offroad"}}
 {"player":"東京我來了","time":{"value":"0:41:48","is_real":true},"state":{"type":"rank","rank":4}}
-{"player":"東京我來了","time":{"value":"0:41:48","is_real":true},"event":{"type":"jump"}}
+{"player":"東京我來了","time":{"value":"0:41:48","is_real":true},"event":{"type":"hop"}}
 {"player":"超速對決","time":{"value":"0:41:50","is_real":false},"state":{"type":"rank","rank":6}}
 {"player":"超速對決","time":{"value":"0:41:50","is_real":false},"state":{"type":"coin","coin":14}}
 {"player":"超速對決","time":{"value":"0:41:50","is_real":false},"state":{"type":"item","item":[[{"item":"triple_mushrooms"},{"item":"triple_mushrooms"}]]}}

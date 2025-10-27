@@ -99,7 +99,7 @@
 {"player":"CTJ","time":{"value":"0:38:27","is_real":false},"event":{"type":"drift_spark","level":1}}
 {"player":"CTJ","time":{"value":"0:38:27","is_real":false},"event":{"type":"drift_boost"}}
 {"player":"CTJ","time":{"value":"0:38:28","is_real":true},"state":{"type":"rank","rank":18}}
-{"player":"CTJ","time":{"value":"0:38:28","is_real":true},"event":{"type":"jump"}}
+{"player":"CTJ","time":{"value":"0:38:28","is_real":true},"event":{"type":"hop"}}
 {"player":"CTJ","time":{"value":"0:38:28","is_real":true},"state":{"type":"rank","rank":19}}
 {"player":"CTJ","time":{"value":"0:38:28","is_real":true},"state":{"type":"rank","rank":20}}
 {"player":"CTJ","time":{"value":"0:38:29","is_real":true},"state":{"type":"rank","rank":22}}
