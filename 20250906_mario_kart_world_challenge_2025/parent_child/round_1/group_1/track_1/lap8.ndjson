@@ -30,7 +30,7 @@
 {"player":"叫什麼隊名都可以","time":{"value":"0:41:56","is_real":false},"state":{"type":"coin","coin":16}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:41:56","is_real":false},"state":{"type":"item","item":[[{"item":"cape_feather"}],[{"item":"triple_red_shells"},{"item":"triple_red_shells"},{"item":"triple_red_shells"}]]}}
 {"player":"叫什麼隊名都可以","time":{"value":"0:41:56","is_real":false},"state":{"type":"terrain","terrain":"road"}}
-{"player":"叫什麼隊名都可以","time":{"value":"0:41:59","is_real":true},"event":{"type":"jump","direction":"no"}}
+{"player":"叫什麼隊名都可以","time":{"value":"0:41:59","is_real":true},"event":{"type":"jump","direction":""}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:41:59","is_real":false},"state":{"type":"rank","rank":1}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:41:59","is_real":false},"state":{"type":"coin","coin":12}}
 {"player":"皓閔一定要吃雞","time":{"value":"0:41:59","is_real":false},"state":{"type":"item","item":[[{"item":"green_shell"}],[{"item":"banana"}]]}}

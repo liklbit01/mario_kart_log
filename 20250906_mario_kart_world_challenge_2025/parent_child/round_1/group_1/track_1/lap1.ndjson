@@ -147,7 +147,7 @@
 {"player":"信信","time":{"value":"0:38:45","is_real":false},"event":{"type":"charge"}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"state":{"type":"rank","rank":12}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"event":{"type":"charge_spark","level":1}}
-{"player":"信信","time":{"value":"0:38:47","is_real":true},"event":{"type":"charge_jump","direction":"no"}}
+{"player":"信信","time":{"value":"0:38:47","is_real":true},"event":{"type":"charge_jump","direction":""}}
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"jump_boost"}}
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"item_get","number":2}}
 {"player":"信信","time":{"value":"0:38:48","is_real":true},"event":{"type":"item_roll","number":2}}
