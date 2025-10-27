@@ -142,7 +142,7 @@
 {"player":"CharMike","time":{"value":"0:38:40","is_real":true},"event":{"type":"collision","cause":"wall","area":"left"}}
 {"player":"信信","time":{"value":"0:38:45","is_real":false},"state":{"type":"rank","rank":13}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"state":{"type":"coin","coin":1}}
-{"player":"信信","time":{"value":"0:38:45","is_real":true},"event"{"type":"item","items":[]}}
+{"player":"信信","time":{"value":"0:38:45","is_real":true},"event":{"type":"item","items":[]}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"state":{"type":"terrain","terrain":"road"}}
 {"player":"信信","time":{"value":"0:38:45","is_real":false},"event":{"type":"charge"}}
 {"player":"信信","time":{"value":"0:38:45","is_real":true},"state":{"type":"rank","rank":12}}
@@ -162,7 +162,7 @@
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"item","items":[[{"item":"spiny_shell"}],[{"item":"mashroom"},{"item":"mashroom"},{"item":"mashroom"}]]}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"event":{"type":"collision","cause":"player","player":"紅豬隊","area":"left"}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"event":{"type":"item_use","item":"spiny_shell"}}
-{"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"item","items":[[[{"item":"mashroom"},{"item":"mashroom"},{"item":"mashroom"}]]}}
+{"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"item","items":[[[{"item":"mashroom"},{"item":"mashroom"},{"item":"mashroom"}]]]}}
 {"player":"信信","time":{"value":"0:38:53","is_real":true},"state":{"type":"rank","rank":17}}
 {"player":"超速對決","time":{"value":"0:38:54","is_real":false},"state":{"type":"rank","rank":10}}
 {"player":"超速對決","time":{"value":"0:38:54","is_real":false},"state":{"type":"coin","coin":3}}
