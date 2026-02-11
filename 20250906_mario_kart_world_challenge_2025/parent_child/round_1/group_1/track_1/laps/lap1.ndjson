@@ -1,5 +1,5 @@
 {"time":{"value":"0:37:42","is_real":true},"event":{"type":"choose_track","tracks":[{"track":"dk_spaceport","number":13},{"track":"random","number":1},{"track":"whistlestop_summit","number":3},{"track":"wario_stadium","number":3}]}}
-{"time":{"value":"0:37:49","is_real":true},"event":{"type":"decide_track","track":"dk_spaceport"}}
+{"time":{"value":"0:37:49","is_real":true},"event":{"type":"decide_track","track":["crown_city", "dk_spaceport"]}}
 {"player":"希希公主","time":{"value":"0:38:08","is_real":true},"state":{"type":"set","position":[2,5]}}
 {"player":"我們是新手","time":{"value":"0:38:08","is_real":true},"state":{"type":"set","position":[3,3]}}
 {"player":"美女與野獸","time":{"value":"0:38:08","is_real":true},"state":{"type":"set","position":[2,4]}}
