@@ -1,0 +1,8 @@
+{"player":"紅豬隊","time":{"value":"0:44:59","is_real":true},"event":{"type":"jump","direction":"right"}}
+{"player":"紅豬隊","time":{"value":"0:44:59","is_real":true},"event":{"type":"jump_boost"}}
+{"player":"JIRO&YUKI","time":{"value":"0:44:59","is_real":false},"state":{"type":"rank","rank":6}}
+{"player":"JIRO&YUKI","time":{"value":"0:44:59","is_real":false},"state":{"type":"coin","coin":1}}
+{"player":"JIRO&YUKI","time":{"value":"0:44:59","is_real":false},"state":{"type":"item","item":[]}}
+{"player":"JIRO&YUKI","time":{"value":"0:44:59","is_real":false},"state":{"type":"terrain","terrain":"water"}}
+{"player":"JIRO&YUKI","time":{"value":"0:44:59","is_real":false},"event":{"type":"item_roll","number":1}}
+{"player":"JIRO&YUKI","time":{"value":"0:44:59","is_real":false},"event":{"type":"jump","direction":"?"}}
