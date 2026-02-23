@@ -28,7 +28,7 @@
 {"player":"OPQ","time":{"value":"0:41:04","is_real":false},"state":{"type":"coin","coin":20}}
 {"player":"OPQ","time":{"value":"0:41:04","is_real":false},"state":{"type":"item","item":[[{"item":"mega_mushroom"}],[{"item":"golden_dash_mushroom"}]]}}
 {"player":"OPQ","time":{"value":"0:41:04","is_real":false},"state":{"type":"terrain","terrain":"road"}}
-{"player":"OPQ","time":{"value":"0:41:44","is_real":false},"event":{"type":"item_use","item":"mega_mushroom"}}
+{"player":"OPQ","time":{"value":"0:41:04","is_real":false},"event":{"type":"item_use","item":"mega_mushroom"}}
 {"player":"OPQ","time":{"value":"0:41:04","is_real":true},"state":{"type":"rank","rank":12}}
 {"player":"OPQ","time":{"value":"0:41:05","is_real":true},"state":{"type":"rank","rank":11}}
 {"player":"OPQ","time":{"value":"0:41:06","is_real":true},"state":{"type":"rank","rank":10}}
