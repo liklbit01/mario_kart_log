@@ -7,6 +7,7 @@
 {"player":"CTJ","time":{"value":"0:39:30","is_real":true},"event":{"type":"rank_update","rank":3}}
 {"player":"CTJ","time":{"value":"0:39:30","is_real":true},"event":{"type":"rank_update","rank":4}}
 {"player":"CTJ","time":{"value":"0:39:30","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:30","is_real":true},"event":{"type":"item_start","item":"?_block"}}
 {"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
 {"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
 {"player":"CTJ","time":{"value":"0:39:31","is_real":true},"event":{"type":"item_use","item":"?_block"}}
@@ -15,6 +16,7 @@
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_use","item":"?_block"}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_use","item":"?_block"}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_use","item":"?_block"}}
+{"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"item_end","item":"?_block"}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"rank_update","rank":6}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"collision","cause":"player","player":"超速對決","area":"left"}}
 {"player":"CTJ","time":{"value":"0:39:32","is_real":true},"event":{"type":"spinout","is_effect":true,"cause":"super_horn","player":"超速對決"}}
@@ -26,6 +28,7 @@
 {"player":"CTJ","time":{"value":"0:39:35","is_real":true},"event":{"type":"mushroom_boost"}}
 {"player":"CTJ","time":{"value":"0:39:36","is_real":true},"event":{"type":"rank_update","rank":12}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"event":{"type":"observe"},"state":{"rank":6,"coin":7,"lap":2,"terrain":"road","items":[[{"item":"golden_dash_mushroom"}]]}}
+{"player":"Gina Go Go","time":{"value":"0:39:37","is_real":false},"event":{"type":"item_start","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:37","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
@@ -44,6 +47,7 @@
 {"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"event":{"type":"rank_update","rank":1}}
+{"player":"Gina Go Go","time":{"value":"0:39:40","is_real":true},"event":{"type":"item_end","item":"golden_dash_mushroom"}}
 {"player":"Gina Go Go","time":{"value":"0:39:44","is_real":true},"event":{"type":"item_get","number":2}}
 {"player":"Gina Go Go","time":{"value":"0:39:45","is_real":true},"event":{"type":"drift","is_correct_direction":true}}
 {"player":"Gina Go Go","time":{"value":"0:39:47","is_real":true},"event":{"type":"drift_spark","level":1}}
@@ -58,6 +62,7 @@
 {"player":"Gina Go Go","time":{"value":"0:39:54","is_real":true},"event":{"type":"rank_update","rank":1}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"event":{"type":"observe"},"state":{"rank":18,"coin":5,"lap":2,"terrain":"road","items":[[{"item":"bullet_bill"}],[{"item":"mushroom"},{"item":"mushroom"},{"item":"mushroom"}]]}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"event":{"type":"item_use","item":"bullet_bill"}}
+{"player":"JIRO&YUKI","time":{"value":"0:39:56","is_real":false},"event":{"type":"item_start","item":"bullet_bill"}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"event":{"type":"coin_get"}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:57","is_real":true},"event":{"type":"rank_update","rank":17}}
 {"player":"JIRO&YUKI","time":{"value":"0:39:58","is_real":true},"event":{"type":"rank_update","rank":16}}
@@ -68,6 +73,7 @@
 {"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"event":{"type":"rank_update","rank":12}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"event":{"type":"coin_get"}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:00","is_real":true},"event":{"type":"rank_update","rank":10}}
+{"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"event":{"type":"item_end","item":"bullet_bill"}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"event":{"type":"collision","cause":"player","player":"CTJ","area":"front"}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"event":{"type":"rank_update","rank":7}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:01","is_real":true},"event":{"type":"rank_update","rank":6}}
@@ -82,6 +88,7 @@
 {"player":"JIRO&YUKI","time":{"value":"0:40:06","is_real":true},"event":{"type":"slipstream_boost","player":"CTJ"}}
 {"player":"JIRO&YUKI","time":{"value":"0:40:06","is_real":true},"event":{"type":"rank_update","rank":4}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"event":{"type":"observe"},"state":{"rank":20,"coin":2,"lap":2,"terrain":"road","items":[[{"item":"golden_dash_mushroom"}]]}}
+{"player":"卡比之星","time":{"value":"0:40:08","is_real":false},"event":{"type":"item_start","item":"golden_dash_mushroom"}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"rank_update","rank":19}}
 {"player":"卡比之星","time":{"value":"0:40:08","is_real":true},"event":{"type":"item_use","item":"golden_dash_mushroom"}}

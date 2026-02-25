@@ -139,6 +139,7 @@
 {"player":"超速對決","time":{"value":"0:38:58","is_real":true},"event":{"type":"item_use","item":"mashroom"}}
 {"player":"超速對決","time":{"value":"0:38:59","is_real":true},"event":{"type":"item_use","item":"mashroom"}}
 {"player":"超速對決","time":{"value":"0:38:59","is_real":true},"event":{"type":"item_use","item":"super_star"}}
+{"player":"超速對決","time":{"value":"0:38:59","is_real":true},"event":{"type":"item_start","item":"super_star"}}
 {"player":"超速對決","time":{"value":"0:39:00","is_real":true},"event":{"type":"rank_update","rank":3}}
 {"player":"卡比之星","time":{"value":"0:39:03","is_real":false},"event":{"type":"observe"},"state":{"rank":13,"coin":7,"terrain":"road","items":[[{"item":"mushroom"},{"item":"mushroom"}]]}}
 {"player":"卡比之星","time":{"value":"0:39:03","is_real":true},"event":{"type":"rank_update","rank":12}}
